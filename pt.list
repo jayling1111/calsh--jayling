@@ -1,6 +1,7 @@
 # 内容：PrivateTracker
 # 数量：122条
 DOMAIN-KEYWORD,announce
+DOMAIN-KEYWORD,pt
 DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,tracker
 DOMAIN-SUFFIX,1ptba.com
