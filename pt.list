@@ -28,7 +28,7 @@ DOMAIN-SUFFIX,bwtorrents.tv
 DOMAIN-SUFFIX,byr.pt
 DOMAIN-SUFFIX,ccfbits.org
 DOMAIN-SUFFIX,cgpeers.com
-DOMAIN-SUFFIX,chdbits.co
+#DOMAIN-SUFFIX,chdbits.co
 DOMAIN-SUFFIX,cinemageddon.net
 DOMAIN-SUFFIX,cinematik.net
 DOMAIN-SUFFIX,cinemaz.to
@@ -123,7 +123,7 @@ DOMAIN-SUFFIX,u2.dmhy.org
 DOMAIN-SUFFIX,uhdbits.org
 DOMAIN-SUFFIX,xauat6.edu.cn
 DOMAIN-SUFFIX,javps.cf
-DOMAIN-SUFFIX,ptchdbits.co
+#DOMAIN-SUFFIX,ptchdbits.co
 DOMAIN-SUFFIX,pterclub.com
 
 
