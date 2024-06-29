@@ -3,6 +3,9 @@
 # 数量：367条
 # 增加了github、docker、tmdb关键字
 
+#chd
+DOMAIN-SUFFIX,chdbits.co
+DOMAIN-SUFFIX,ptchdbits.co
 #tmdb
 DOMAIN-KEYWORD,themoviedb
 
