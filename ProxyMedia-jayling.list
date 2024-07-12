@@ -3,6 +3,9 @@
 # 数量：367条
 # 增加了github、docker、tmdb关键字
 
+#facebook
+DOMAIN-KEYWORD,facebook
+
 #hytron
 DOMAIN-SUFFIX,hytron.io
 
