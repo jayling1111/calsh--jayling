@@ -3,6 +3,9 @@
 # 数量：367条
 # 增加了github、docker、tmdb关键字
 
+#ROMWE
+DOMAIN-KEYWORD,ROMWE
+
 #nowe
 DOMAIN-KEYWORD,nowe
 
