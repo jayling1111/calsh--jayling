@@ -3,6 +3,14 @@
 # 数量：367条
 # 增加了github、docker、tmdb关键字
 
+#AV
+DOMAIN-KEYWORD,av
+DOMAIN-KEYWORD,jav
+DOMAIN-KEYWORD,sex
+
+
+
+
 #US
 DOMAIN-KEYWORD,US
 
