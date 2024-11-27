@@ -1,5 +1,13 @@
 # 内容：PrivateTracker
 # 数量：122条
+
+
+#TK卖家后台直连
+
+DOMAIN-SUFFIX,seller.tiktokglobalshop.com
+
+#PT
+
 DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,tracker
