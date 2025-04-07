@@ -3,6 +3,11 @@
 # 数量：367条
 # 增加了github、docker、tmdb关键字
 
+#hostloc
+DOMAIN-KEYWORD,hostloc
+DOMAIN-SUFFIX,hostloc.con
+
+
 #AV
 DOMAIN-KEYWORD,av
 DOMAIN-KEYWORD,jav
