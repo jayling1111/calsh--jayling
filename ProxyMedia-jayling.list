@@ -8,7 +8,7 @@ DOMAIN-KEYWORD,hostloc
 DOMAIN-SUFFIX,hostloc.com
 
 #psgame
-DOMAIN-KEYWORD,playstation
+#DOMAIN-KEYWORD,playstation
 
 
 
