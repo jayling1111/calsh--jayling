@@ -3,6 +3,10 @@
 # 数量：367条
 # 增加了github、docker、tmdb关键字
 
+#steam
+DOMAIN-KEYWORD,steam
+DOMAIN-SUFFIX,steam.com
+
 #hostloc
 DOMAIN-KEYWORD,hostloc
 DOMAIN-SUFFIX,hostloc.com
