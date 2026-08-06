@@ -5,8 +5,8 @@
 
 #  shein
 DOMAIN-KEYWORD,shein
-
-
+# paypal
+DOMAIN-KEYWORD,amazon
 
 #google-gemini
 DOMAIN,ai.google.dev
